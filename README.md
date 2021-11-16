@@ -1,6 +1,6 @@
 ### Juan Carlos Monsalve G 👋 
 
-🔭 Aprendiz de programación, actualmente curso Ingeniería de Software. Con especial interés (en este momento) en el desarrollo web a través de Flask (un Microframework) de Python bastante potente con una curva de aprendizaje bastante rápida. Me encanta aprender sobre tecnología, pero también enseñar... date una pasada por mi canal de YouTube https://youtube.com/jcmonsalveg y por mi sitio web http://juancmg.com/ si te interesa la tecnología. 
+🔭 Aprendiz de programación, actualmente curso Ingeniería de Software. Con especial interés (en este momento) en el desarrollo web a través de Flask (un Microframework) de Python bastante potente con una curva de aprendizaje bastante rápida. Me encanta aprender sobre tecnología, pero también enseñar... date una pasada por mi 📺 canal de YouTube https://youtube.com/jcmonsalveg y por mi 📝 sitio web http://juancmg.com/ si te interesa la tecnología. 
 
 <!--
 **jcmonsalveg/jcmonsalveg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
