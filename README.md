@@ -1,4 +1,4 @@
-### Hi there 👋
+### Aprendiz de programación, actualmente curso Ingeniería de Software. Con especial interés (en este momento) en el desarrollo web a través de Flask (un Microframework) de Python. 👋 
 
 🔭 I’m currently working on Python (Flask)
 
