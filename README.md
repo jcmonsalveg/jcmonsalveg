@@ -1,6 +1,6 @@
 ### Juan Carlos Monsalve G 👋 
 
-🔭 Desarrollador de software, con especial interés en el desarrollo web haciendo uso de lenguajes como PHP, Python (Flask) y JavaScript, con conocimientos básicos en FrontEnd Me encanta aprender sobre tecnología, pero también enseñar... date una pasada por mi 📺 canal de YouTube https://youtube.com/jcmonsalveg y por mi 📝 sitio web http://juancmg.com/ si te interesa la tecnología. 
+🔭 Desarrollador de software, con especial interés en el desarrollo web haciendo uso de lenguajes como PHP, Python (Flask - Django), con conocimientos básicos en FrontEnd Me encanta aprender sobre tecnología, pero también enseñar... date una pasada por mi 📺 canal de YouTube https://youtube.com/jcmonsalveg y por mi 📝 sitio web http://juancmg.com/ si te interesa la tecnología. 
 
 <!--
 **jcmonsalveg/jcmonsalveg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
